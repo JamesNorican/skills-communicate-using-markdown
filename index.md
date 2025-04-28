@@ -19,4 +19,11 @@ Hello There;
 ``` javascript
 var myVar = 42
 ```
+- [x] Turn on GitHub Pages
+- [x] Begin course: Skill-communicate-using-markdown
+- [x] Complete Step 1
+- [x] CompleteStep 2
+- [x] Complete Step 3
+- [ ] Complete Step 4
+      
 Commit message
