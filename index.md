@@ -4,6 +4,7 @@
 # Good day sir
 ## How is your day?
 ### Who are you?
-#### Wat's all this then?
+#### What's all this then?
+![](https://octodex.github.com/images/yaktocat.png)
 
 Commit message
